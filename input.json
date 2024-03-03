@@ -3,5 +3,13 @@
     "type": "title",
     "title": "Next.jsをCloud RunにデプロイしCI/CDにGitHub Actionsを利用するチュートリアル"
   },
-  {}
+  {
+    "type": "title",
+    "title": "Next.jsをCloud RunにデプロイしCI/CDにGitHub Actionsを利用するチュートリアル",
+    "image": {
+      "path": "",
+      "width": 100,
+      "height": 100
+    }
+  }
 ]
